@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T16:45:02 IST" name="Suite" finished-at="2022-12-05T16:45:02 IST" duration-ms="113">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T16:45:02 IST" name="Test" finished-at="2022-12-05T16:45:02 IST" duration-ms="113">
+      <class name="JenkinsPractice.BuildDeploymentTest">
+        <test-method signature="sample1Test()[pri:0, instance:JenkinsPractice.BuildDeploymentTest@50b5ac82]" started-at="2022-12-05T16:45:02 IST" name="sample1Test" finished-at="2022-12-05T16:45:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample1Test -->
+        <test-method signature="sample2Test()[pri:0, instance:JenkinsPractice.BuildDeploymentTest@50b5ac82]" started-at="2022-12-05T16:45:02 IST" name="sample2Test" finished-at="2022-12-05T16:45:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sample2Test -->
+      </class> <!-- JenkinsPractice.BuildDeploymentTest -->
+      <class name="JenkinsPractice.BuildCreationTest">
+        <test-method signature="regBuildTest()[pri:0, instance:JenkinsPractice.BuildCreationTest@6a84a97d]" started-at="2022-12-05T16:45:02 IST" name="regBuildTest" finished-at="2022-12-05T16:45:02 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regBuildTest -->
+        <test-method signature="smokeBuildTest()[pri:0, instance:JenkinsPractice.BuildCreationTest@6a84a97d]" started-at="2022-12-05T16:45:02 IST" name="smokeBuildTest" finished-at="2022-12-05T16:45:02 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- smokeBuildTest -->
+      </class> <!-- JenkinsPractice.BuildCreationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
